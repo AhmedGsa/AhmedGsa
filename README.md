@@ -2,7 +2,7 @@
 ## About Me:
 - Second year Computer Science student
 - Interested in Web Development
-- Currently learning backend development with NodeJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="15" width="50">
+- Currently learning backend development with NodeJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="20" width="20">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverBullet19&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
