@@ -2,7 +2,7 @@
 ## About Me:
 - Second year Computer Science student
 - Interested in Web Development
-- Currently learning NodeJS @icon-node-js
+- Currently learning NodeJS <i class="fa-brands fa-node"></i>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverBullet19&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
