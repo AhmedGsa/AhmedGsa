@@ -13,7 +13,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="firebase" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="github" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="gradle" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/flutter/flutter-plain.svg" title="flutter" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="kotlin" width="60" height="60"/>
    
  ## 🔗 Links
