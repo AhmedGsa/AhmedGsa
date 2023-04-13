@@ -2,7 +2,7 @@
 ## 🚀 About Me
 - Second year Computer Science student
 - Interested in Web Development
-- Currently learning backend development with NodeJS
+- Currently learning ReactJS
 
 
 ## 🛠 Skills
