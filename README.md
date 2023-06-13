@@ -17,7 +17,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="60" height="60"/>
-   <img src="[https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg)" title="MySQL" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" width="60" height="60"/>
