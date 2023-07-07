@@ -1,8 +1,7 @@
 ### Hey, It's Ahmed👋
 ## 🚀 About Me
-- Second year Computer Science student
-- Interested in Web Development
-- Currently learning ReactJS
+- Second year Computer Science Engineering student
+- Full-stack Developer
 
 
 ## 🛠 Skills
