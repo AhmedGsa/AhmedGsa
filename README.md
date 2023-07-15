@@ -1,6 +1,6 @@
 ### Hey, It's Ahmed👋
 ## 🚀 About Me
-- Second year Computer Science Engineering student
+- Third year Computer Science Engineering student
 - Full-stack Developer
 
 
