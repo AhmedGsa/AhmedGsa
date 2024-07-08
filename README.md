@@ -2,9 +2,10 @@
 ## 🚀 About Me
 - Third Year Computer Science Student
 - Full-stack Developer
+- Currently learning: Machine Learning
 
 
-## 🛠 Skills
+## 🛠 Tech Stack
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="60" height="60"/>
