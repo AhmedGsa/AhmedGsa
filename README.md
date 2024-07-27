@@ -1,6 +1,6 @@
 ### Hey, It's Ahmed👋
 ## 🚀 About Me
-- Third Year Computer Science Student
+- Fourth Year Computer Science Student
 - Full-stack Developer
 - Currently learning: Machine Learning
 
