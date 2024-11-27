@@ -2,7 +2,7 @@
 ## 🚀 About Me
 - Fourth Year Computer Science Student
 - Full-stack Developer
-- Currently learning: Machine Learning
+- Currently learning: Data Science
 
 
 ## 🛠 Tech Stack
