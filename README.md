@@ -1,6 +1,6 @@
 ### Hey, It's Ahmed👋
 ## 🚀 About Me
-- Fourth Year Computer Science Student
+- Final Year Computer Science Student
 - Full-stack Developer
 - Currently learning: Data Science
 
