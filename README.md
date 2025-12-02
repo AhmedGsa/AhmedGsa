@@ -2,7 +2,7 @@
 ## 🚀 About Me
 - Final Year Computer Science Student
 - Full-stack Developer
-- Currently learning: Data Science
+- Currently learning: Computer Vision
 
 
 ## 🛠 Tech Stack
