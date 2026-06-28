@@ -26,7 +26,7 @@
  ## 🔗 Links
  - Catch me at a_gouasmia@estin.dz
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedGsa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedGsa&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedGsa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
