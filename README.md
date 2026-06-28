@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gouasmia</h1>
+
 <h3 align="center">
 Full-Stack Software Engineer • AI Enthusiast • Computer Science Graduate
 </h3>
@@ -7,67 +8,74 @@ Full-Stack Software Engineer • AI Enthusiast • Computer Science Graduate
 Building scalable web applications, SaaS platforms, and AI-powered software.
 </p>
 
+<p align="center">
+  <a href="https://www.hmed.dev">
+    <img src="https://img.shields.io/badge/Portfolio-hmed.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ahmed-gouasmia-59baa1245">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:a_gouasmia@estin.dz">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineer
-- 💼 Full-Stack Developer
-- 🤖 Passionate about Artificial Intelligence & Computer Vision
-- 🌱 Currently exploring LLMs, OCR, and Multi-Agent Systems
-- ⚡ Love building products with NestJS, React and PostgreSQL
+- 💼 Full-Stack Software Engineer
+- 🤖 Passionate about Artificial Intelligence, LLMs & Computer Vision
+- 🌱 Currently building AI-powered applications using OCR and Agentic AI
+- ⚡ Specialized in NestJS, React, PostgreSQL and scalable backend architectures
+
+---
+
+## 🚀 Current Focus
+
+- 🧠 Large Language Models (LLMs)
+- 👁️ Computer Vision
+- 📄 Intelligent Document Processing
+- ☁️ SaaS Architecture
+- ⚙️ Backend Engineering
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nextjs,nodejs,nestjs,express,flutter,dart,postgres,mysql,mongodb,firebase,docker,git,linux,vscode" />
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nextjs,nodejs,nestjs,express,flutter,dart,postgres,mysql,mongodb,firebase,docker,git,linux,vscode&perline=11"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=AhmedGsa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedGsa&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedGsa&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=AhmedGsa&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=AhmedGsa&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedGsa&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=AhmedGsa&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-
----
-
-## 📫 Contact
+## 📫 Let's Connect
 
 📧 **a_gouasmia@estin.dz**
 
-💼 LinkedIn: *(add your profile)*
+🌍 **Portfolio:** https://www.hmed.dev
 
-🌍 Portfolio: *(add your portfolio)*
+💼 **LinkedIn:** https://www.linkedin.com/in/ahmed-gouasmia-59baa1245
