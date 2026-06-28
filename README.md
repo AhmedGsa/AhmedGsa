@@ -1,33 +1,73 @@
-### Hey, It's Ahmed👋
-## 🚀 About Me
-- Final Year Computer Science Student
-- Full-stack Developer
-- Currently learning: Computer Vision
+<h1 align="center">Hi 👋, I'm Ahmed Gouasmia</h1>
+<h3 align="center">
+Full-Stack Software Engineer • AI Enthusiast • Computer Science Graduate
+</h3>
 
+<p align="center">
+Building scalable web applications, SaaS platforms, and AI-powered software.
+</p>
 
-## 🛠 Tech Stack
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" width="60" height="60"/>
-   
- ## 🔗 Links
- - Catch me at a_gouasmia@estin.dz
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedGsa&theme=dark)](https://git.io/streak-stats)
+## 👨‍💻 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedGsa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- 🎓 Computer Science Engineer
+- 💼 Full-Stack Developer
+- 🤖 Passionate about Artificial Intelligence & Computer Vision
+- 🌱 Currently exploring LLMs, OCR, and Multi-Agent Systems
+- ⚡ Love building products with NestJS, React and PostgreSQL
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedGsa&theme=tokyonight" alt="mystreak"/>
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nextjs,nodejs,nestjs,express,flutter,dart,postgres,mysql,mongodb,firebase,docker,git,linux,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=AhmedGsa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedGsa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=AhmedGsa&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedGsa&theme=tokyo-night&hide_border=true"/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=AhmedGsa&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+
+---
+
+## 📫 Contact
+
+📧 **a_gouasmia@estin.dz**
+
+💼 LinkedIn: *(add your profile)*
+
+🌍 Portfolio: *(add your portfolio)*
